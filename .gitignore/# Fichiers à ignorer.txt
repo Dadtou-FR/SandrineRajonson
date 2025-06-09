@@ -1,0 +1,8 @@
+# Fichiers à ignorer
+node_modules/
+.vscode/
+.env
+.gradle/
+.DS_Store
+*.log
+*.tmp
